@@ -27,6 +27,6 @@ other than that you can refer app.py to understand how i have deployed my model
 
 ## here are some screen shots of the application
 
-![screen_shot_1](/images/s1.png)
+![screen_shot_1](https://github.com/Pragati01234/Air-Quality-Prediction/blob/main/s1.png)
 
-![screen_shot_2](/images/s2.png)
+![screen_shot_2](https://github.com/Pragati01234/Air-Quality-Prediction/blob/main/s2.png)
